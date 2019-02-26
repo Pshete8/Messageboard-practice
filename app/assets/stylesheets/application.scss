@@ -16,10 +16,11 @@
 
 /* General styles */
 
-body {
-	background-color: #fff;
-	font-family: 'Playfair Display', serif;
-}
+ body {
+	background: url('download.jpeg') no-repeat center center;
+	background-size: cover;
+	height: 600px;
+	}
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Muli', sans-serif;
